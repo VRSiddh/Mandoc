@@ -1,6 +1,6 @@
-# MandoDoc: Multi-Format Document Question Answering Assistant
+# Mandoc: Multi-Format Document Question Answering Assistant
 
-**MandoDoc** is a powerful, extensible AI assistant that enables you to upload and chat with your own documents—across a wide range of formats. Built with Streamlit and advanced retrieval-augmented generation (RAG), MandoDoc supports PDFs, DOCX, PPTX, XLSX, CSV, JSON, TXT, and image files (PNG, JPG), including OCR for scanned documents and images.
+**Mandoc** is a powerful, extensible AI assistant that enables you to upload and chat with your own documents—across a wide range of formats. Built with Streamlit and advanced retrieval-augmented generation (RAG), Mandoc supports PDFs, DOCX, PPTX, XLSX, CSV, JSON, TXT, and image files (PNG, JPG), including OCR for scanned documents and images.
 
 ---
 
@@ -46,7 +46,7 @@ streamlit run app.py
 
 ---
 
-**MandoDoc** empowers you to unlock insights from your own files—securely, privately, and with full source traceability.
+**Mandoc** empowers you to unlock insights from your own files—securely, privately, and with full source traceability.
 
 ---
 
